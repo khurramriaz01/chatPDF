@@ -1,0 +1,14 @@
+PyPDF2
+numpy
+langchain 
+langchain-community
+openai
+sentence-transformers
+transformers
+faiss-cpu
+google-generativeai
+python-dotenv
+streamlit
+
+
+
